@@ -1,0 +1,1 @@
+Booking ID: 1001, Customer: rushikesh, Price: 180.0
